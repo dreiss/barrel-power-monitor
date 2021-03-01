@@ -19,6 +19,7 @@ def no_hand_solder(fp):
 ADJUSTMENTS = [
         ("Q", "SOT-23", 180),
         ("U", "SOT-23-5", 180),
+        ("U", "SOT-23-8", 270),
         ("U", "SOT-223-3_TabPin2", 180),
         ("U", "LQFP-48_7x7mm_P0.5mm", 270),
 ]
